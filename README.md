@@ -106,11 +106,6 @@ All saved in the `logs/` directory and structured via `logger.py`.
 - Bandaru Ritesh Kumar (CS22B2043)
 - Ganesh Banotu (CS22B2008)
 
-## 📄 License
-
-This project is released under the MIT License.
-(Or replace with your own license.)
-
 ## 🙏 Acknowledgements
 
 This project was developed as part of CS3009 - Reinforcement Learning at IIITDM Kancheepuram, under the guidance of Dr. Rahul Raman.
